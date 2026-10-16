@@ -1,6 +1,6 @@
 # runc ハンズオン
 
-Ubuntu 26.04 に公式パッケージの `runc` と `busybox-static` を導入し、
+Ubuntu 26.04 に公式パッケージの `runc`、`busybox-static`、`vim` を導入し、
 `/root/runc-hands-on` に OCI bundle（`rootfs` と `config.json`）を用意します。
 ARM64 / AMD64 はビルド環境に応じて選択されます。
 Ubuntu のタグを固定していますが、パッケージはビルド時点のリポジトリから取得します。
